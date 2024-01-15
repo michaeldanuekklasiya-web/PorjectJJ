@@ -217,45 +217,104 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="property-visi-misi">
-      <div class="overlap">
-        <div class="rectangle"></div>
-        <div class="text-wrapper">SAPA Vision 2034</div>
-        <img class="line" src="img/line-8.svg" />
-      </div>
-      <div class="div">SAPA Indonesia Vision 2034</div>
-      <div class="group">
-        <div class="overlap-group">
-          <p class="in-SAPA">
-            In 2034, SAPA Indonesia envisions itself as the pinnacle of integrated <br />lifestyle solutions, seamlessly
-            enriching the lives of individuals and families across the nation. Our commitment to innovation and
-            customer-centricity will have led us to new heights, solidifying our application as the go-to platform for
-            easy and fast lifestyle services
+    <div class="box">
+      <div class="visi-misi">
+        <div class="property-visi-misi">
+          <div class="overlap">
+            <div class="rectangle"></div>
+            <div class="text-wrapper">Vision</div>
+            <img class="line" src="img/line-6-3.svg" />
+          </div>
+          <div class="overlap-group">
+            <div class="div"></div>
+            <p class="p">
+              We aspire to revolutionize the accessibility landscape in Indonesia, fostering the creation of countless
+              job opportunities for millions of our fellow citizens
+            </p>
+            <div class="text-wrapper-2">“</div>
+            <div class="text-wrapper-3">”</div>
+          </div>
+          <div class="text-wrapper-4">SAPA Indonesia Vision</div>
+          <div class="text-wrapper-5">Mission</div>
+          <div class="text-wrapper-6">SAPA Vision 2034</div>
+          <p class="our-vision-mission">
+            <span class="span">Our</span> <span class="text-wrapper-7"> Vision &amp;<br />Mission</span>
           </p>
-          <p class="as-a-pioneer-in">
-            As a pioneer in digital transformation, SAPA Indonesia envisions playing a <br />pivotal role in shaping the
-            future of work, empowering a thriving community of service providers and connecting them with individuals
-            seeking meaningful job opportunities. Our platform will not only be a facilitator of services but also a
-            catalyst for positive socio-economic impact, fostering a sense of community and shared prosperity
+        </div>
+        <div class="property-visi-misi-2">
+          <div class="overlap-2">
+            <div class="rectangle"></div>
+            <div class="text-wrapper-8">Mission</div>
+            <img class="line" src="img/line-7.svg" />
+          </div>
+          <div class="overlap-3">
+            <p class="text-wrapper-9">
+              To serve Indonesians by bringing the best user experience through accessibility, convenience, and
+              satisfaction by pioneering a platform that bridges a gap in the worker’s industry.
+            </p>
+            <p class="text-wrapper-10">Thus, we have five major objectives in mind:</p>
+            <p class="text-wrapper-11">Facilitate the growth of the household service industry</p>
+            <p class="text-wrapper-12">Establish an accessible platform, for all members of society</p>
+            <p class="text-wrapper-13">Places paramount on tailored-user personal experiences</p>
+            <p class="text-wrapper-14">
+              Eradicate or reduce the likelihood of incidents when hiring household services
+            </p>
+            <p class="text-wrapper-15">Ensure transparency at the core of our operations</p>
+            <img class="iconamoon-check-fill" src="img/iconamoon-check-fill-4.svg" />
+            <img class="img" src="img/iconamoon-check-fill.svg" />
+            <img class="iconamoon-check-fill-2" src="img/iconamoon-check-fill-7.svg" />
+            <img class="iconamoon-check-fill-3" src="img/iconamoon-check-fill-2.svg" />
+            <img class="iconamoon-check-fill-4" src="img/iconamoon-check-fill-3.svg" />
+          </div>
+          <div class="text-wrapper-4">SAPA Indonesia Mission</div>
+          <div class="text-wrapper-16">Vision</div>
+          <div class="text-wrapper-6">SAPA Vision 2034</div>
+          <p class="our-vision-mission">
+            <span class="span">Our</span> <span class="text-wrapper-7"> Vision &amp;<br />Mission</span>
           </p>
-          <p class="p">
-            In 2034, SAPA Indonesia will stand as a beacon of sustainability, <br />incorporating eco-friendly practices
-            into our operations and services. Our commitment to corporate social responsibility will be ingrained in our
-            DNA, contributing to the well-being of the environment and the communities we serve.
+          <div class="line-wrapper"><img class="line-2" src="img/line-9.svg" /></div>
+        </div>
+        <div class="property-visi-misi-3">
+          <div class="overlap-4">
+            <div class="rectangle"></div>
+            <div class="text-wrapper-17">SAPA Vision 2034</div>
+            <img class="line" src="img/line-8.svg" />
+          </div>
+          <div class="text-wrapper-4">SAPA Indonesia Vision 2034</div>
+          <div class="group">
+            <div class="overlap-group-2">
+              <p class="in-SAPA">
+                In 2034, SAPA Indonesia envisions itself as the pinnacle of integrated <br />lifestyle solutions,
+                seamlessly enriching the lives of individuals and families across the nation. Our commitment to
+                innovation and customer-centricity will have led us to new heights, solidifying our application as the
+                go-to platform for easy and fast lifestyle services
+              </p>
+              <p class="as-a-pioneer-in">
+                As a pioneer in digital transformation, SAPA Indonesia envisions playing a <br />pivotal role in shaping
+                the future of work, empowering a thriving community of service providers and connecting them with
+                individuals seeking meaningful job opportunities. Our platform will not only be a facilitator of
+                services but also a catalyst for positive socio-economic impact, fostering a sense of community and
+                shared prosperity
+              </p>
+              <p class="in-SAPA-2">
+                In 2034, SAPA Indonesia will stand as a beacon of sustainability, <br />incorporating eco-friendly
+                practices into our operations and services. Our commitment to corporate social responsibility will be
+                ingrained in our DNA, contributing to the well-being of the environment and the communities we serve.
+              </p>
+              <img class="iconamoon-check-fill-5" src="img/iconamoon-check-fill-6.svg" />
+              <img class="iconamoon-check-fill-6" src="img/image.svg" />
+              <img class="iconamoon-check-fill-7" src="img/iconamoon-check-fill-5.svg" />
+            </div>
+          </div>
+          <div class="text-wrapper-16">Vision</div>
+          <div class="text-wrapper-18">Mission</div>
+          <p class="our-vision-mission">
+            <span class="span">Our</span> <span class="text-wrapper-7"> Vision &amp;<br />Mission</span>
           </p>
-          <img class="iconamoon-check-fill" src="img/iconamoon-check-fill-2.svg" />
-          <img class="img" src="img/iconamoon-check-fill.svg" />
-          <img class="iconamoon-check-fill-2" src="img/image.svg" />
+          <div class="img-wrapper"><img class="line-2" src="img/line-9-2.svg" /></div>
+          <img class="line-3" src="img/line-7-2.svg" />
         </div>
       </div>
-      <div class="text-wrapper-2">Vision</div>
-      <div class="text-wrapper-3">Mission</div>
-      <p class="our-vision-mission">
-        <span class="span">Our</span> <span class="text-wrapper-4"> Vision &amp;<br />Mission</span>
-      </p>
-      <div class="line-wrapper"><img class="line-2" src="img/line-9.svg" /></div>
-      <img class="line-3" src="img/line-7.svg" />
     </div>
   </body>
 </html>
-
