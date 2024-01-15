@@ -208,59 +208,54 @@
 
 
 ##CODE
-import React from "react";
-import "./style.css";
-
-export const PropertyVisiMisi = () => {
-  return (
-    <div className="property-visi-misi">
-      <div className="overlap">
-        <div className="rectangle" />
-        <div className="text-wrapper">SAPA Vision 2034</div>
-        <img className="line" alt="Line" src="line-8.svg" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="property-visi-misi">
+      <div class="overlap">
+        <div class="rectangle"></div>
+        <div class="text-wrapper">SAPA Vision 2034</div>
+        <img class="line" src="img/line-8.svg" />
       </div>
-      <div className="div">SAPA Indonesia Vision 2034</div>
-      <div className="group">
-        <div className="overlap-group">
-          <p className="in-SAPA">
-            In 2034, SAPA Indonesia envisions itself as the pinnacle of integrated <br />
-            lifestyle solutions, seamlessly enriching the lives of individuals and families across the nation. Our
-            commitment to innovation and customer-centricity will have led us to new heights, solidifying our
-            application as the go-to platform for easy and fast lifestyle services
+      <div class="div">SAPA Indonesia Vision 2034</div>
+      <div class="group">
+        <div class="overlap-group">
+          <p class="in-SAPA">
+            In 2034, SAPA Indonesia envisions itself as the pinnacle of integrated <br />lifestyle solutions, seamlessly
+            enriching the lives of individuals and families across the nation. Our commitment to innovation and
+            customer-centricity will have led us to new heights, solidifying our application as the go-to platform for
+            easy and fast lifestyle services
           </p>
-          <p className="as-a-pioneer-in">
-            As a pioneer in digital transformation, SAPA Indonesia envisions playing a <br />
-            pivotal role in shaping the future of work, empowering a thriving community of service providers and
-            connecting them with individuals seeking meaningful job opportunities. Our platform will not only be a
-            facilitator of services but also a catalyst for positive socio-economic impact, fostering a sense of
-            community and shared prosperity
+          <p class="as-a-pioneer-in">
+            As a pioneer in digital transformation, SAPA Indonesia envisions playing a <br />pivotal role in shaping the
+            future of work, empowering a thriving community of service providers and connecting them with individuals
+            seeking meaningful job opportunities. Our platform will not only be a facilitator of services but also a
+            catalyst for positive socio-economic impact, fostering a sense of community and shared prosperity
           </p>
-          <p className="p">
-            In 2034, SAPA Indonesia will stand as a beacon of sustainability, <br />
-            incorporating eco-friendly practices into our operations and services. Our commitment to corporate social
-            responsibility will be ingrained in our DNA, contributing to the well-being of the environment and the
-            communities we serve.
+          <p class="p">
+            In 2034, SAPA Indonesia will stand as a beacon of sustainability, <br />incorporating eco-friendly practices
+            into our operations and services. Our commitment to corporate social responsibility will be ingrained in our
+            DNA, contributing to the well-being of the environment and the communities we serve.
           </p>
-          <img className="iconamoon-check-fill" alt="Iconamoon check fill" src="iconamoon-check-fill.svg" />
-          <img className="img" alt="Iconamoon check fill" src="image.svg" />
-          <img className="iconamoon-check-fill-2" alt="Iconamoon check fill" src="iconamoon-check-fill-2.svg" />
+          <img class="iconamoon-check-fill" src="img/iconamoon-check-fill-2.svg" />
+          <img class="img" src="img/iconamoon-check-fill.svg" />
+          <img class="iconamoon-check-fill-2" src="img/image.svg" />
         </div>
       </div>
-      <div className="text-wrapper-2">Vision</div>
-      <div className="text-wrapper-3">Mission</div>
-      <p className="our-vision-mission">
-        <span className="span">Our</span>
-        <span className="text-wrapper-4">
-          {" "}
-          Vision &amp;
-          <br />
-          Mission
-        </span>
+      <div class="text-wrapper-2">Vision</div>
+      <div class="text-wrapper-3">Mission</div>
+      <p class="our-vision-mission">
+        <span class="span">Our</span> <span class="text-wrapper-4"> Vision &amp;<br />Mission</span>
       </p>
-      <div className="line-wrapper">
-        <img className="line-2" alt="Line" src="line-9.svg" />
-      </div>
-      <img className="line-3" alt="Line" src="line-7.svg" />
+      <div class="line-wrapper"><img class="line-2" src="img/line-9.svg" /></div>
+      <img class="line-3" src="img/line-7.svg" />
     </div>
-  );
-};
+  </body>
+</html>
+
